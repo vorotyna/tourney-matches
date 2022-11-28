@@ -37,4 +37,4 @@ const matchData = [
   }
 ];
 
-export default playerData;
+export default matchData;
